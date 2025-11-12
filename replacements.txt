@@ -1,5 +1,4 @@
 necəsən → nichiksan
-salam → salom
 blokçeyn → blokcheyn
 NFT → nft
 Sən necəsən? → Sən nichiksan?
@@ -7,6 +6,9 @@ necə olursunuz → nichiksiz?
 gün → gun
 Salam → Assalamu aleykum
 Mənim → Mani
+Mən → Man
+nə → na
+edirəm → adaman
 Sənin → Sani
 Onun → Uni
 Bizim → Bizari
